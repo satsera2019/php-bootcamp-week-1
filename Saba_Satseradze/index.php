@@ -41,6 +41,8 @@
                 }
             }
     
+            
+            
             // Check if image file is a actual image or fake image
             if ($_FILES['profile_picture']['size'] == 0)
             {
